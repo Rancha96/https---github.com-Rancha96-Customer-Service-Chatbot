@@ -1,0 +1,14 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+streamlit-pdf-viewer
+faiss-cpu
+langchain-community
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+openai
+tiktoken
+google-cloud-storage
+google-generativeai
+langchain_google_genai
